@@ -23,7 +23,6 @@ function Technologies() {
     kafka,
     docker,
     jenkins,
-    openShift,
     aws,
     eclipse,
     intellij,
