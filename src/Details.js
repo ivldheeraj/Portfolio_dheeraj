@@ -31,7 +31,7 @@ export const personalDetails = {
   name: "Dheeraj Inuganti",
   tagline: " Java Developer",
   img: profile,
-  about: `Results-driven Software Engineer with 4+ years of experience in building scalable backend systems and full-stack applications using Java, Spring Boot, and React. Proven track record in optimizing performance, enhancing system reliability, and delivering high-quality solutions in Agile environments.`,
+  about: `Results-driven Software Engineer with over 4 years of experience in full-stack development, specializing in Java, Spring Boot, Microservices, and React.js. Proven expertise in building scalable, high-performance enterprise applications for global clients like Barclays and Capgemini. Adept at system optimization, database design, and DevOps practices, including CI/CD, Docker, and OpenShift. Strong background in cloud-native development with hands-on experience in AWS services such as Lambda, S3, and API Gateway.Skilled in delivering secure, efficient, and user-centric solutions across banking, enterprise training, and research-based platforms.`
 };
 
 // Enter your Social Media URLs here
@@ -109,7 +109,7 @@ export const eduDetails = [
   {
     Position: "Bachelor in Electronics & Communication",
     Company: `CMR Technical Campus`,
-    Location: "Hyderabad, India`,",
+    Location: "Hyderabad, India",
     Type: "Full Time",
     Duration: "Aug 2016 - May 2020",
   },
